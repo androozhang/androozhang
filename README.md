@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shuoandrew
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Andrew Zhang
+- 👀 I’m interested in becoming a software engineer, but I am still open to other software career paths 
+- 🌱 I’m currently learning JavaScript, NodeJs, and Python
 - 📫 How to reach me ... zandrew129@gmail.com
 
 <!---
